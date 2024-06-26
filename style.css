@@ -131,7 +131,7 @@ tr:not(:last-child) {
     .main_container {
         background-color: white;
         width: 700px;
-        margin: 20px;
+        margin: 100px 20px;
         border-radius: 15px;
     }
 
